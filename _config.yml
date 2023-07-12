@@ -42,13 +42,13 @@ c4sponsorsUrl: "https://lab.viettelcybersecurity.vn/#sponsor"
 
 # Navigation
 navigationLinks:
- - {permalink: "/talk/", text: "Home"}
- #- {permalink: "/talk/blog/", text: "Blog"}
- - {permalink: "/talk/schedule/", text: "Schedule"}
- - {permalink: "/talk/speakers/", text: "Speakers"}
- - {permalink: "/talk/team/", text: "Team"}
- #- {permalink: "/talk/logistics/", text: "Logistics"}
- #- {permalink: "/talk/hackathon/", text: "Hackathon"}
+ - {permalink: "/", text: "Home"}
+ #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://lab.viettelcybersecurity.vn/talk/#c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -120,7 +120,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+#partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
