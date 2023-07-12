@@ -1,0 +1,126 @@
+- 
+  id: 1
+  name: "HoangHA"
+  company: "DVATTT"
+  title: "Researcher"
+  bio: "Researcher"
+  thumbnailUrl: hoangha2.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
+    - {abbr: "MVP", title: "MVP Microsoft", url: "#"}
+  social: 
+    #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 2
+  name: "AnhNT"
+  company: "DVATTT"
+  title: "Redteam"
+  bio: "Bug bounty hunter"
+  thumbnailUrl: anhnt.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "MVP", title: "MVP BugHunter", url: "#"}
+  social: 
+    #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 3
+  name: "CuongDH"
+  #surname: "Ostrowski"
+  company: "TTDVMN"
+  title: "Head of TTDVMN"
+  bio: "Cứ gọi là chuyên gia"
+  thumbnailUrl: cuongdh.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 4
+  name: "LuongTD"
+  #surname: "Danylyk"
+  company: "TTDVMN"
+  title: "Internship"
+  bio: 'Sinh viên thủ khoa đầu vào và đầu ra trường ĐH'
+  thumbnailUrl: luongtd.png
+  rockstar: false
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+- 
+  id: 5
+  name: "HoangNX"
+  company: "DVATTT"
+  title: "Researcher"
+  bio: "Researcher"
+  thumbnailUrl: hoangnx.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 6
+  name: "DucNM"
+  company: "Mass Service"
+  title: "Infrastructure Security"
+  bio: "Infrastructure Security"
+  thumbnailUrl: ducnm69.jpg
+  #rockstar: true
+  social: 
+    # - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    # - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 7
+  name: "PhuongDH"
+  company: "Mass Service"
+  title: "Infrastructure Security"
+  bio: "Infrastructure Security"
+  thumbnailUrl: phuongdh2.jpg
+  #rockstar: true
+  social: 
+    # - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    # - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 8
+  name: "Dung132"
+  company: "SOC"
+  title: "SOC SO"
+  bio: "SOC SO"
+  thumbnailUrl: dungnv132.jpg
+  rockstar: true
+  social: 
+    #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 9
+  name: "PhuNT"
+  company: "TTDVMN"
+  title: "IoT Researcher"
+  bio: "IoT Researcher"
+  thumbnailUrl: phunt14.jpg
+  rockstar: false
+  social: 
+    #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 10
+  name: "DuongDPT"
+  company: "DVATTT"
+  title: "Researcher"
+  bio: "Researcher"
+  thumbnailUrl: duongdpt1.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
+    - {abbr: "MVP", title: "MVP Microsoft", url: "#"}
+  social: 
+    #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 11
+  name: "ThanhNC"
+  company: "DVATTT"
+  title: "Researcher"
+  bio: "Researcher"
+  thumbnailUrl: thanhnc41.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
+  social: 
+    #- {name: "site", link: "http://olostan.name/"}

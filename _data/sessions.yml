@@ -1,0 +1,83 @@
+-
+  id: 666
+  title: "Giải lao"
+  place: "Hall"
+  service: true
+  description: "Giải lao - Giao lưu"
+-
+  id: 000
+  title: "Đăng ký và Đón khách"
+  subtype: keynote
+  speakers: []
+  language: "VI"
+  complexity: "Dễ"
+-
+  id: 701
+  title: "AI&Security: Một vài ý niệm"
+  description: "Nêu ra một số quan điểm về AI trend cũng như sự liên quan với ATTT"
+  subtype: presentation
+  speakers: [3]
+  language: "VI"
+-
+  id: 702
+  title: "AI&Security: A method of thwarting poisoning attacks for federated cyber threat detection framework via Latent Space Inspection strategy"
+  description: "Trình bày một phương pháp chống tấn công đầu độc trong việc huấn luyện các mô hình IDS học máy bằng Federated Learning "
+  subtype: presentation
+  speakers: [4]
+  language: "VI"
+-
+  id: 703
+  title: "Exploring Electron App Attack Vectors: Lessons Learned from the Microsoft Teams P2O Case"
+  description: "Giới thiệu về Electron, security model và các attack vectors. Microsoft Teams P2O case"
+  subtype: presentation
+  speakers: [5]
+  language: "VI"
+-
+  id: 704
+  title: "Tấn công từ chối dịch vụ phân tán bằng phương pháp khuếch đại DNS"
+  description: "Tấn công từ chối dịch vụ phân tán bằng phương pháp khuếch đại DNS + Demo"
+  subtype: presentation
+  speakers: [6, 7]
+  language: "VI"
+-
+  id: 705
+  title: "Nhật kí xử lý sự cố ransomware"
+  description: "Những câu chuyện vui (hoặc không vui) khi đi xử lý sự cố ransomware cho khách hàng"
+  subtype: presentation
+  speakers: [8]
+  language: "VI"
+-
+  id: 706
+  title: "Tìm hiểu về Docker Security"
+  description: "Docker không còn xa lạ gì, nhưng mối nguy cơ và rủi ro tiềm tàng thì vẫn đang hiện hữu quanh ta"
+  subtype: presentation
+  speakers: [9]
+  language: "VI"
+-
+  id: 707
+  title: "New trend to pwn Samsung smart phone"
+  description: "Trình bày một hướng tấn công thiết bị điện thoại thường được sử dụng trong vài năm gần đây"
+  subtype: presentation
+  speakers: [11]
+  language: "VI"
+-
+  id: 708
+  title: "Native Modules in IIS: The (new) attack surface."
+  description: "Câu chuyện của tác giả sau khi nghe câu nói: 'Ai rồi cũng phải làm Binary thôi'"
+  subtype: presentation
+  speakers: [10]
+  language: "VI"
+-
+  id: 709
+  title: "FOMO ở nhóm nghiên cứu: tản mạn về Ticketbox"
+  description: "Câu chuyện FOMO ở nhóm nghiên cứu: tản mạn về Ticketbox"
+  subtype: presentation
+  speakers: [1]
+  language: "VI"
+-
+  id: 710
+  title: "Bug bounty hunting methodology like Red Teamer"
+  description: "Chia sẻ một số case bug bounty trong thực tế theo cách làm của 1 Red teamer"
+  subtype: presentation
+  speakers: [2]
+  language: "VI"

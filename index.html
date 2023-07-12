@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: /
+---
+
+ {% include hero.html %}
+
+ {% include about.html %}
+
+ {% include rockstar-speakers.html %} 
+
+ {% include partners.html %}
+
+ {% include statistic.html %}
+
+ {% if site.latestNewsTitle %}{% include latest-news.html %}{% endif %}
+
+ {% if site.locationBlockTitle %}{% include location-map.html %}{% endif %}
+
+ {% if site.venueBlockTitle %}{% include venue.html %}{% endif %}
+ 
+ {% if site.tweetsFeedImage %}{% include twitter-feed.html %}{% endif %}
+
+ {% include subscribe.html %}
+
+ {% if site.ticketsTitle %}{% include tickets.html %}{% endif %}
+
+ {% if site.ticketsTitle %}{% include tickets-2.html %}{% endif %}
