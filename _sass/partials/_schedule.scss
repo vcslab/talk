@@ -70,7 +70,8 @@ $small-label-width: 80px;
     width: $label-width;
     text-align: left;
     margin: 0;
-    font-size: $title-font-size;
+    //font-size: $title-font-size;
+    font-size: 16px;
     line-height: 1;
     @media (max-width: 767px) {
         font-size: 18px;
