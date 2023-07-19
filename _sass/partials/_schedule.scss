@@ -71,10 +71,10 @@ $small-label-width: 80px;
     text-align: left;
     margin: 0;
     //font-size: $title-font-size;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1;
     @media (max-width: 767px) {
-        font-size: 18px;
+        font-size: 14px;
         width: $small-label-width;
     }
     span {
