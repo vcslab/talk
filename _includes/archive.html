@@ -1,0 +1,26 @@
+<!-- Begin Archive -->
+<section id="blog" class="blog">
+    <div class="content-wrapper text-left">
+        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            <h3>{{ archives.title }}</h3>
+            <div class="col-lg-8 col-md-10 col-xs-12">
+		{% for event in site.data.archives %}
+                    <article class="row post">
+                        <a href="{{ site.baseurl }}/archives/{{ event.id }}" title="{{ event.title }}"><h4>{{ event.title }}</h4></a>
+                        <div class="post-header">
+                           <div class="published col-md-4 col-xs-4">
+                                <span class="caption">Địa điểm:</span>
+                                <span class="publish-date" itemprop="datePublished">{{ event.location }}</span>
+                            </div>
+                            <div class="published col-md-4 col-xs-4">
+                                <span class="caption">Ngày:</span>
+                                <span class="publish-date" itemprop="datePublished">{{ event.date | date: "%b %-d, %Y" }}</span>
+                            </div>
+                        </div>
+                    </article>
+                {% endfor %} 
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Archive -->
