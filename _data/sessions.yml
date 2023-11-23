@@ -81,3 +81,38 @@
   subtype: presentation
   speakers: [2]
   language: "VI"
+-
+  id: 801
+  title: "Redteam 0day Untold Story - From recon to RCE"
+  description: "Chia sẻ về quá trình hack 1 số target là các công ty lớn trong top 500 Fortune Global với cách làm của Red team"
+  subtype: presentation
+  speakers: [2, 12]
+  language: "VI"
+-
+  id: 802
+  title: "QNAP, Pwn2Own và những câu chuyện"
+  description: "Hành trình khẳng định câu nói \"Không thiết bị nào có thể thoát khỏi tấn công MITM\" của tác giả"
+  subtype: presentation
+  speakers: [10]
+  language: "VI"
+-
+  id: 803
+  title: "Ứng dụng framework DeTT&CT vào việc đánh giá độ phủ phát hiện cảnh báo mối nguy của Blue Team"
+  description: "Trong quá trình xây dựng concept cho dịch vụ Purple Team, TT. DV ATTT có nhu cầu đánh giá giá độ phủ phát hiện cảnh báo mối nguy phía khách hàng nhằm tìm ra khoảng hổng, cung cấp thêm tri thức, nâng cao năng lực cho đội Blue Team. Việc tìm hiểu và ứng dụng được framework DeTT&CT giúp giải quyết được vấn đề này, đồng thời có thể ứng dụng trong nhiều sản phẩm dịch vụ khác có cùng nhu cầu."
+  subtype: presentation
+  speakers: [13]
+  language: "VI"
+-
+  id: 804
+  title: "Tôi đã lỡ hẹn với Pwn2Own như thế nào"
+  description: "Kể về hành trình của tác giả khi tham gia chiến dịch Pwn2Own với target Synology. Khai thác thiết bị Synology NAS thông qua DDNS và một vài thứ còn bỏ ngõ."
+  subtype: presentation
+  speakers: [14]
+  language: "VI"
+-
+  id: 805
+  title: "RAP - Ruined A Printer"
+  description: "Làm sao để hack một máy in"
+  subtype: presentation
+  speakers: [15]
+  language: "VI"

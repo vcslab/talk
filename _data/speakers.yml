@@ -13,10 +13,10 @@
     #- {name: "site", link: "http://olostan.name/"}
 - 
   id: 2
-  name: "AnhNT"
+  name: "Anhnt1337"
   company: "DVATTT"
-  title: "Redteam"
-  bio: "Bug bounty hunter"
+  title: "Redteamer"
+  bio: "Bug bounty hunter, Red teamer"
   thumbnailUrl: anhnt.jpg
   rockstar: true
   ribbon: 
@@ -103,12 +103,12 @@
   id: 10
   name: "DuongDPT"
   company: "DVATTT"
-  title: "Researcher"
-  bio: "Researcher"
+  title: "Pwn2Own winner"
+  bio: "Người nắm giữ bí mật chiến thắng Pwn2Own"
   thumbnailUrl: duongdpt1.png
   rockstar: true
   ribbon: 
-    - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
+    - {abbr: "PWN", title: "Pwn2Own successful, Master of Pwn", url: "#"}
     - {abbr: "MVP", title: "MVP Microsoft", url: "#"}
   social: 
     #- {name: "site", link: "http://olostan.name/"}
@@ -124,3 +124,46 @@
     - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
   social: 
     #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 12
+  name: "NguyenLV"
+  company: "DVATTT"
+  title: "Redteamer"
+  bio: "Hack all the things"
+  thumbnailUrl: nguyenlv7.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "Redteamer", title: "Redteamer", url: "#"}
+- 
+  id: 13
+  name: "Nguyễn Bá Duy"
+  company: "DVATTT"
+  title: "Business Analyst"
+  bio: "Làm việc tại TT.DV ATTT với vị trí Business Analyst, công việc của mình là tìm kiếm, phân tích các giải pháp để ứng dụng trong việc phát triển các dịch vụ mới. Mặc dù bước chân vào lĩnh vực bảo mật và ATTT chưa lâu, nhưng mình cảm nhận được đây là một lĩnh vực thú vị, đem lại ý nghĩa thiệt thực cho khách hàng và xã hội. Trước khi gia nhập VCS, mình là co-founder và phụ trách phát triển sản phẩm cho nền tảng luyện tập hacking và thi đấu CTF Cookie Arena (Ra mắt tháng 5/2023)"
+  thumbnailUrl: duynb5.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Business Analyst", title: "Business Analyst", url: "#"}
+- 
+  id: 14
+  name: "Khoadha"
+  company: "VPMN"
+  title: "Researcher ở vùng xa"
+  bio: "Author của một vài 0-day/ Ex-pentester, Researcher/ Wibu :D"
+  thumbnailUrl: khoadha.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "Ex-pentester", title: "Ex-pentester", url: "#"}
+    - {abbr: "Researcher", title: "Researcher", url: "#"}
+    - {abbr: "Wibu", title: "Wibu", url: "#"}
+- 
+  id: 15
+  name: "Quang"
+  company: "DVATTT"
+  title: "Junior developer"
+  bio: "Lập trình viên biết chút ít về bảo mật."
+  thumbnailUrl: quangnh14.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Researcher", title: "Researcher", url: "#"}
+    - {abbr: "PWN", title: "Master of Pwn 2023", url: "#"}

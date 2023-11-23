@@ -1,65 +1,36 @@
 - 
-  date: "2023-07-21"
-  dateReadable: "21 Tháng 7"
+  date: "2023-12-01"
+  dateReadable: "01 Tháng 12"
   tracks: 
-    - {title: "VCSLab Talk #7", color: "#90be4e"}
+    - {title: "VCSLab Talk #8", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "13:30",
-        endTime: "14:00",
-        sessionIds: [701]
-    }
-    - {
         startTime: "14:00",
-        endTime: "14:30",
-        sessionIds: [702]
+        endTime: "14:45",
+        sessionIds: [801]
     }
     - {
-        startTime: "14:30",
-        endTime: "15:00",
-        sessionIds: [703]
+        startTime: "14:45",
+        endTime: "15:15",
+        sessionIds: [802]
     }
     - {
-        startTime: "15:00",
+        startTime: "15:15",
         endTime: "15:30",
-        sessionIds: [704]
+        sessionIds: [803]
     }
     - {
         startTime: "15:30",
-        endTime: "15:45",
+        endTime: "16:00",
         sessionIds: [666]
     }
     - {
-        startTime: "15:45",
-        endTime: "16:15",
-        sessionIds: [705]
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [804]
     }
     - {
-        startTime: "16:15",
-        endTime: "16:45",
-        sessionIds: [706]
-    }
-    - {
-        startTime: "16:45",
-        endTime: "17:15",
-        sessionIds: [707]
-    }
-- 
-  tracks: 
-    - {title: "Phiên mở rộng", color: "#90be4e"}
-  timeslots:
-    - {
-        startTime: "17:15",
-        endTime: "17:40",
-        sessionIds: [708]
-    }
-    - {
-        startTime: "17:40",
-        endTime: "18:00",
-        sessionIds: [710]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "18:30",
-        sessionIds: [709]
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [805]
     }
