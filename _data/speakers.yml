@@ -5,7 +5,7 @@
   title: "Researcher"
   bio: "Researcher"
   thumbnailUrl: hoangha2.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
     - {abbr: "MVP", title: "MVP Microsoft", url: "#"}
@@ -31,7 +31,7 @@
   title: "Head of TTDVMN"
   bio: "Cứ gọi là chuyên gia"
   thumbnailUrl: cuongdh.jpg
-  rockstar: true
+  rockstar: false
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
@@ -52,7 +52,7 @@
   title: "Researcher"
   bio: "Researcher"
   thumbnailUrl: hoangnx.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
   social: 
@@ -86,7 +86,7 @@
   title: "SOC SO"
   bio: "SOC SO"
   thumbnailUrl: dungnv132.jpg
-  rockstar: true
+  rockstar: false
   social: 
     #- {name: "site", link: "http://olostan.name/"}
 - 
@@ -119,7 +119,7 @@
   title: "Researcher"
   bio: "Researcher"
   thumbnailUrl: thanhnc41.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "PWN", title: "Pwn2Own successful", url: "#"}
   social: 
